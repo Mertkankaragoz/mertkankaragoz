@@ -1,3 +1,6 @@
+
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGjDGAfKgRntg/profile-displaybackgroundimage-shrink_350_1400/B4DZYuZ.grH4AY-/0/1744535285381?e=1750291200&v=beta&t=ZTTS-13UhDAU5mOMSHXRzHe3GnBaNOqXOtb6rr9Nv9c)
+
 <h1 align="center">Hi 👋, I'm Mertkan Karagöz</h1>
 <h3 align="center">R&D Mechanical Engineer | CAD & Photorealistic Rendering Specialist | Industrial Systems Innovator | Turkey</h3>
 
